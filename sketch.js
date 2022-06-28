@@ -179,6 +179,8 @@ function reset(){
   gameOver.visible = false;
   restart.visible = false;
   
+  explodeSound.stop();
+  
   tree_group.destroyEach();
   obstacle_group.destroyEach();
   
