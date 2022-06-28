@@ -1,6 +1,6 @@
-Game - To avoid car to collide with other vehicles. Endless game.
+Game - To avoid car to collide with other vehicles. An Endless game.
 
-To see the score/distance adjust the screen to 600 px width. Drag the preview to left
+You can see the score/distance at the game screen's right edge.
 
 Game controls:
 w - forward
